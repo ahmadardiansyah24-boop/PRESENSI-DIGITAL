@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Absensi Wajah Siswa Realtime",
+  "description": "Aplikasi absensi wajah siswa realtime berbasis browser dengan face-api.js dan Supabase.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
